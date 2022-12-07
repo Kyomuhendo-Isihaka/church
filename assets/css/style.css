@@ -1,0 +1,20 @@
+.main-up{
+    background: url(/assets/images/bg.jpeg);
+    height: 450px;
+    background-size: cover;
+}
+.main-up .card{
+    width: 350px;
+    height: 350px;
+    border-radius: 100%;
+    
+}
+.main-low{
+    background: rgb(0, 0, 0);
+}
+.main-low button{
+    width: 100%;
+}
+.footer{
+    background: cyan;
+}
